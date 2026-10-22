@@ -18,7 +18,7 @@ This project uses well-log measurements and Python-based data analysis to identi
 ## Tools and Technologies
 
 - **Programming Language:** Python
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Libraries:** Pandas, NumPy, Matplotlib
 - **Environment:** Google Colab
 
 ## Well-Log Data
